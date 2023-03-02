@@ -1,0 +1,19 @@
+- name: NJU
+  link: https://www.nju.edu.cn
+  description: 南京大学
+  avatar: /images/nju.jpg
+
+- name: NJUCS
+  link: https://cs.nju.edu.cn/
+  description: 计算机科学与技术系
+  avatar: /images/logo.png
+
+- name: ICS
+  link: https://cs.nju.edu.cn/ics/index.htm
+  description: 计算机软件所
+  avatar: https://cs.nju.edu.cn/ics/static/img/ICS_LOGO_left.png
+
+- name: PASCAL
+  link: https://pascal-lab.net/
+  description: 程序设计语言与静态分析组
+  avatar: https://cs.nju.edu.cn/ics/static/img/logo-pascal-32x32.png
