@@ -91,3 +91,15 @@ If you want to publish a post but don't have access to the github repository of 
 ### Step4: Wait a few minutes
 
 It takes some time to synchronize between github and netlify. So you need to wait a few minutes to see your post online.
+
+### About comments
+
+You can comment in the comment section below without login to any platform. A nickname is all you need to provide. You’ll get a random avatar.
+
+You’re not able to delete or modify your comment again after you have submitted it. So, just be cautious when commenting.
+
+If you really want to delete or modify your comment, please contact me 201220014@smail.nju.edu.cn .
+
+Note that we won’t modify your comments, but we reserve the right to delete your comments if it is extremely inappropriate.
+
+Have a nice day!
