@@ -71,9 +71,6 @@ The file structure of this site is like
 ```bash
 .
 ├── _config.yml
-├── db.json
-├── node_modules
-├── package-lock.json
 ├── package.json
 ├── scaffolds
 ├── source
