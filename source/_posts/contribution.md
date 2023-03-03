@@ -6,7 +6,7 @@ categories: [contribution]
 sticky: 9999
 ---
 
-Welcome to [NJUCS · Volunteers](https://github.com/NJU-CS)! This is a crash tutorial about how to contribute to this site. If you get any problems, you can open an issue [here](https://github.com/JacyCui/njucs/issues) or you can send an email to 201220014@smail.nju.edu.cn .
+Welcome to [NJUCS · Volunteers](https://github.com/NJU-CS)! This is a crash tutorial about how to contribute to this site. If you get any problems, you can open an issue [here](https://github.com/NJU-CS/njucs/issues) or you can send an email to 201220014@smail.nju.edu.cn .
 
 <!-- more -->
 
@@ -84,7 +84,7 @@ The file structure of this site is like
 └── themes
 ```
 
-Put your markdown file in the folder `./source/_posts/` is the only thing you need to do in order to publish a post on this website. Here `.` stands for the root directory of [this repository](https://github.com/JacyCui/njucs).
+Put your markdown file in the folder `./source/_posts/` is the only thing you need to do in order to publish a post on this website. Here `.` stands for the root directory of [this repository](https://github.com/NJU-CS/njucs).
 
 If you want to publish a post but don't have access to the github repository of this website, just contact any one of us.
 
