@@ -16,7 +16,7 @@ A post is a markdown file. A markdown file is just a text file named like `XXX.m
 
 HTML labels can also be used in a markdown file. 
 
-[Latex math formulas](https://en.wikibooks.org/wiki/LaTeX/Mathematics) can be written inline between two `$`'s like `e=mc^2` which looks like $e=mc^2$ . Display mode latex math formulas is also supported.
+[Latex math formulas](https://en.wikibooks.org/wiki/LaTeX/Mathematics) can be written inline between two `$`'s like `$e=mc^2$` which looks like $e=mc^2$ . Display mode latex math formulas is also supported.
 
 ```latex
 $$
