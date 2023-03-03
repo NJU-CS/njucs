@@ -291,6 +291,6 @@ footer:
   since: 2023  # The starting year of your website, Can be null
   icp: 苏ICP备2022035348号-1        # ICP record number of your website, Can be null
   site_deploy:
-    enable: true       # Option values: true | false
+    enable: false       # Option values: true | false
     provider:          # Option values: github | vercel | netlify | gitee | aliyun | tencent_cloud | upyun
     url:               # Your deployment provider url, Can be null
