@@ -289,7 +289,7 @@ pjax:
 # ---------------------------------------------------------------------------------------
 footer:
   since: 2023  # The starting year of your website, Can be null
-  icp:         # ICP record number of your website, Can be null
+  icp: 苏ICP备2022035348号-1        # ICP record number of your website, Can be null
   site_deploy:
     enable: true       # Option values: true | false
     provider: netlify    # Option values: github | vercel | netlify | gitee | aliyun | tencent_cloud | upyun
