@@ -1,9 +1,11 @@
 ---
-title: 保研本校
-date: 2023-03-08 0:27:37
-tags: [保研，保研流程，推免流程]
-categories: [保研，经验分享]
+title: Contribution Guidelines
+date: 2023-03-03 11:22:36
+tags: [contribution]
+categories: [contribution]
+sticky: 9999
 ---
+
 # 保研（推免）
 
 {% hint style="info" %}
