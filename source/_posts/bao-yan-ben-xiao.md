@@ -1,8 +1,8 @@
 ---
 title: 保研本校
 date: 2023-03-08 0:27:37
-tags: [contribution]
-categories: [contribution]
+tags: [保研，保研流程，开放日流程]
+categories: [保研]
 ---
 
 # 保研本校
