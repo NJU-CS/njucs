@@ -3,7 +3,6 @@ title: Contribution Guidelines
 date: 2023-03-03 11:22:36
 tags: [contribution]
 categories: [contribution]
-sticky: 9999
 ---
 
 # 保研（推免）
