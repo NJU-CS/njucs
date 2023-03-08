@@ -1,7 +1,7 @@
 ---
 title: 近几年政策
 date: 2023-03-08 13:24:05
-tags: [保研,保研政策]
+tags: [保研,保研政策,历年政策,19届细则]
 categories: [保研]
 ---
 我们目前只分析19级细则，[链接在此](http://bbs.nju.edu.cn/vd98619/blogcon?userid=wang360\&file=1661928832)。
