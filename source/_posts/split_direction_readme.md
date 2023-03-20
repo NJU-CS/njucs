@@ -12,7 +12,7 @@ categories: [课程,大三分方向]
 <!-- more -->
 NJUCS共有5个方向：
 
-<figure><img src="../../.gitbook/assets/方向课程.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/方向课程.jpg" alt=""><figcaption></figcaption></figure>
 
 #### 相关资料
 

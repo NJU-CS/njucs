@@ -71,7 +71,7 @@ scriptreplay test.timefile test.txt
 
 上述过程动图演示如下：
 
-![动图演示](../../.gitbook/assets/terminal-playback-1.gif)
+![动图演示](/assets/terminal-playback-1.gif)
 
 #### 回放分享
 
